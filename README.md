@@ -19,9 +19,10 @@ simulator.getPrice();
 simulator.refuel(20);
 simulator.drive(200);
 
+
+
 ## 🔮 Future Improvements
 - Add user interface (HTML/CSS)
 - Add multiple cars support
-
 
 Created by Aylin Mercan
